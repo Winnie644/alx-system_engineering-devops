@@ -24,5 +24,14 @@ The file iacta will be in the working directory
 
 The current and parent directories should not be taken into account
 
-Hidden directories should be counted
+Hidden directories
+12-newest_files- Create a script that displays the 10 newest files in the current directory.
+13-unique- Create a script that takes a list of words as input and prints only words that appear exactly once.
 
+
+
+Input format: One line, one word
+
+Output format: One line, one word
+
+Words should be sorted
