@@ -38,3 +38,8 @@ Words should be sorted
 14-findthatword- Display lines containing the pattern “root” from the file /etc/passwd
 15-countthatword- Display the number of lines that contain the pattern “bin” in the file /etc/passwd
 16-whatsnext- Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+17-hidethisword- Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+18-letteronly- Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+19-AZ- Replace all characters A and c from input to Z and e respectively.
+20-hiago- Create a script that removes all letters c and C from input.
+21-reverse- Write a script that reverse its input.
